@@ -1,0 +1,8 @@
+.vinilo {
+  margin-left: 100px;
+  display: inline-flex;
+  border-radius: 50%;
+  width: 400px;
+  height: 400px;
+  background: black;
+}
